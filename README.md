@@ -1,4 +1,4 @@
-# loyalty_white_label
+# clean_architecture_flutter
 
 A new Flutter project.
 
